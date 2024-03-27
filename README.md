@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-
+- 🖥 My personal blog: https://blog.chaochaoniu.com
+- 😄 Pronouns: He.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChchNiu&show_icons=true&icon_color=0366d6&text_color=728096&bg_color=00000000&count_private=true&include_all_commits=true" />
+
 
 <!--
 **ChchNiu/ChchNiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
